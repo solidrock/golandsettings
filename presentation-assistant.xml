@@ -1,0 +1,10 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="alternativeKeymap">
+      <KeymapDescription>
+        <option name="displayText" value="for Mac" />
+        <option name="name" value="Sublime Text" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>
