@@ -1,8 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="ng" type="HTML" />
+      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="go.mod" type="PLAIN_TEXT" />
       <removed_mapping pattern="go.mod" approved="true" type="go.mod" />
+      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <removed_mapping pattern="go.mod" approved="true" type="go.mod" />
     </extensionMap>
   </component>
